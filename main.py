@@ -1,4 +1,4 @@
-# LifeCode - Evolutionary Cellular Automata Sandbox (Improved Cell Visibility)
+# LifeCode - Evolutionary Cellular Automata Sandbox
 
 import raylibpy as rl
 import numpy as np
